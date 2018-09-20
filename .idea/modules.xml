@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeSimulator/HomeSimulator.iml" filepath="$PROJECT_DIR$/HomeSimulator/HomeSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cp2406-project-KyleIrving01-master.iml" filepath="$PROJECT_DIR$/.idea/cp2406-project-KyleIrving01-master.iml" />
+    </modules>
+  </component>
+</project>
